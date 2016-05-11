@@ -4,6 +4,7 @@ The aim of this project to determine which university is better for students in 
 1. Scrapy
 2. Weka
 3. R Studio
+
 #Steps
 1. Fetch the comments from "Ekşi Sözlük"
 2. Normalization
