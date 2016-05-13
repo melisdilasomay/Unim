@@ -1,0 +1,5 @@
+x <- c(13,32)
+> labels <- c("positive","negative")
+> colors <- c("green","red")
+> piepercent <- round(100*x/sum(x),1)
+> pie(x, labels=piepercent, main = "ege university",col=colors)
